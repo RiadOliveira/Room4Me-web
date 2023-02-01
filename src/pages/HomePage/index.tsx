@@ -1,6 +1,6 @@
 import { Container } from './styles';
 
-export const Home = () => {
+export const HomePage = () => {
   return (
     <Container>
       <div>Room4Me</div>
