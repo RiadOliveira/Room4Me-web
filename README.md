@@ -32,7 +32,7 @@ Room4Me is a software developed mainly for university students, as it seeks to m
 </br> </br> 
 
 <h2 id="technologies">🛠 Technologies</h2>
-Tools used ottps://avatars.githubusercontent.com/u/58983203?v=4"n this project:
+Tools used on this project:
 
 - [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
